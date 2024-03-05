@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/JKJ3PJm/Adobe-Stock-505413960-Preview-Editorial-Use-Only.jpg",
+      "title": "Introduction to Python ",
+      "description": "Master Python fundamentals with syntax, data types, functions, and more. Build projects to solidify skills.",
+      "price": 49.99,
+      "credit": 3
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/1qCzVB0/Adobe-Stock-745942324-Preview.jpg",
+      "title": "Web Development Fundamentals",
+      "description": "Learn HTML, CSS, JavaScript basics. Create responsive, accessible websites. Ideal for beginners aspiring to ...",
+      "price": 59.99,
+      "credit": 4
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/wMqZLXJ/Adobe-Stock-694303632-Preview.jpg",
+      "title": "Data Science Essentials",
+      "description": "Explore data manipulation, visualization, and statistical analysis using Python and R. Gain machine learning insights. ",
+      "price": 79.99,
+      "credit": 5
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/FwcgDYd/Adobe-Stock-258871009-Preview.jpg",
+      "title": "Introduction to Machine Learning",
+      "description": "Discover supervised, unsupervised learning algorithms. Implement with Python. Great for beginners and ..",
+      "price": 89.99,
+      "credit": 5
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/DrWZ1Ds/Adobe-Stock-464407914-Preview.jpg",
+      "title": "Graphic Design Basics",
+      "description": "Learn design principles, typography, color theory. Master Adobe Photoshop, Illustrator. Perfect for design.",
+      "price": 39.99,
+      "credit": 2
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/ZTFyZB1/Adobe-Stock-252760983-Preview.jpg",
+      "title": "Digital Marketing Strategies",
+      "description": "Craft effective marketing campaigns across social media, email, search engines. Dive into content for all levels.",
+      "price": 69.99,
+      "credit": 4
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/Vjjz0Gp/Adobe-Stock-196968684-Preview.jpg",
+      "title": "Introduction to Blockchain",
+      "description": "Explore blockchain, cryptocurrencies, smart contracts. Learn practical applications in finance, supply chain.",
+      "price": 99.99,
+      "credit": 6
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/L9QccDV/Adobe-Stock-593652181-Preview.jpg",
+      "title": "Photography Masterclass",
+      "description": "Advance photography skills with composition, lighting, post-processing. Explore different camera settings.",
+      "price": 79.99,
+      "credit": 4
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/ZWRYFRD/Adobe-Stock-314829332-Preview.jpg",
+      "title": "Creative Writing Workshop",
+      "description": "Unleash creativity with fiction, poetry, non-fiction writing. Craft compelling characters, vivid settings.",
+      "price": 49.99,
+      "credit": 3
+    }
+  ]
+  
